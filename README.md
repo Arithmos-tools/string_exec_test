@@ -1,5 +1,5 @@
 # 文字列を実行する
-
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Arithmos-tools_string_exec_test&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Arithmos-tools_string_exec_test)
 [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=Arithmos-tools_string_exec_test&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=Arithmos-tools_string_exec_test)
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Arithmos-tools_string_exec_test&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=Arithmos-tools_string_exec_test)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=Arithmos-tools_string_exec_test&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=Arithmos-tools_string_exec_test)
